@@ -4,7 +4,7 @@
  * Plugin URI:      https://github.com/gcordner/wordpress-http-logger
  * Description:     Activate to log HTTP requests and responses to wp-content/http_requests.log. Deactivate to stop logging.
  * Author:          Geoff Cordner
- * Author URI:      https://geoffcordner.com
+ * Author URI:      https://geoffcordner.net
  * Text Domain:     http-logger
  * Domain Path:     /languages
  * Version:         0.1.0
